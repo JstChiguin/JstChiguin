@@ -2,7 +2,13 @@
 
 # 👋 ¡Hola! Soy Chiguin
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=🎓+Estudiante+de+Ingeniería+Informática;💻+Desarrolladora+Full+Stack+en+formación;🚀+Creando+proyectos+para+aprender+y+mejorar+cada+día;☕+Java+%7C+Spring+Boot+%7C+JavaScript+%7C+Git)]
+### 🎓 Estudiante de Ingeniería Informática
+
+💻 Apasionada por el desarrollo de software, creando proyectos para aprender, resolver problemas reales y seguir creciendo como desarrolladora.
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,spring,git,github,docker,mysql,vscode,idea" />
+</p>
 
 </div>
 
@@ -10,113 +16,88 @@
 
 # 👩‍💻 Sobre mí
 
-Soy **estudiante de Ingeniería Informática** con un gran interés por el desarrollo de software.
+Soy estudiante de **Ingeniería Informática** y disfruto desarrollar aplicaciones que aporten soluciones reales.
 
-Me gusta aprender creando proyectos que solucionen problemas reales, especialmente en las áreas de **salud**, **educación** y **automatización**.
+Actualmente estoy ampliando mis conocimientos en **Java**, **Spring Boot**, **Docker**, **APIs REST** y **Desarrollo Full Stack**, aplicando lo aprendido en proyectos personales y académicos.
 
-Actualmente continúo fortaleciendo mis conocimientos en **Java**, **Spring Boot**, **JavaScript**, **Git**, **Docker** y **desarrollo Full Stack**.
+Me interesan especialmente los proyectos relacionados con:
+
+- 🏥 Salud
+- 👶 Educación
+- 🌐 Desarrollo Web
+- ⚙️ Automatización de procesos
 
 ---
 
 # 🚀 Tecnologías
 
-<div align="center">
+### Lenguajes
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,spring,git,github,docker,mysql,vscode,idea" />
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- SQL
 
-</div>
+### Frameworks y herramientas
 
----
-
-# 📊 Estadísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JstChiguin&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JstChiguin&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JstChiguin&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 💡 Áreas de interés
-
-🏥 Desarrollo de aplicaciones para Salud
-
-👶 Software para Educación
-
-🌐 Desarrollo Web
-
-⚙️ Automatización de procesos
-
-☕ Backend con Java y Spring Boot
+- Spring Boot
+- Git
+- GitHub
+- Docker
+- MySQL
+- IntelliJ IDEA
+- Visual Studio Code
+- Web Speech API
+- Docx.js
 
 ---
 
 # 📂 Proyectos Destacados
 
-## 👶 TeachNote
-
-Aplicación creada para apoyar a educadoras de párvulos en la organización de registros y actividades pedagógicas.
-
-**Tecnologías**
-
-- HTML
-- CSS
-- JavaScript
-
----
-
-## 📚 Irregular Verbs Trainer
+## 📚 Irregular Verbs
 
 Aplicación web para practicar verbos irregulares en inglés mediante audio, repetición automática y distintos modos de estudio.
 
 ### Características
 
-- Audio automático
-- Repetición configurable
-- Selección por grupos
-- Exclusión individual de verbos
-- Bucle por grupo
-- Interfaz responsive
+- 🔊 Reproducción automática
+- 🔁 Repetición configurable
+- 📂 Selección por grupos
+- 🔇 Exclusión individual de verbos
+- 🎧 Bucle por grupo
+- 📱 Diseño responsive
 
 **Tecnologías**
 
-- HTML
-- CSS
-- JavaScript
+HTML • CSS • JavaScript
 
 ---
 
-## 🏥 Sistema de Programación de Horas Médicas
+## 🌱 ParvuLog
 
-Aplicación web para gestionar agendas médicas con exportación a Excel.
+Aplicación web diseñada para educadoras de párvulos que permite registrar experiencias pedagógicas mediante voz o texto, organizar observaciones y generar informes diarios.
 
-### Funcionalidades
+### Características
 
-- Agenda médica
-- Gestión de pacientes
-- Exportación a Excel
-- Organización de horarios
+- 🎙️ Registro mediante reconocimiento de voz
+- 📝 Edición manual
+- 📒 Bitácora diaria
+- 👧 Registro de participantes
+- 📄 Generación de informes
+- 🖨️ Impresión
+- 📄 Exportación a Word (.docx)
+- 💾 Almacenamiento local
 
 **Tecnologías**
 
-- HTML
-- CSS
-- JavaScript
+HTML • CSS • JavaScript • Web Speech API • Docx.js
 
 ---
 
 ## ☕ Medilink
 
-Proyecto académico desarrollado con arquitectura de microservicios.
+Proyecto académico desarrollado con arquitectura de microservicios utilizando Spring Boot.
 
 ### Tecnologías
 
@@ -124,38 +105,50 @@ Proyecto académico desarrollado con arquitectura de microservicios.
 - Spring Boot
 - Docker
 - MySQL
+- Spring Cloud
+- Eureka Server
+- API Gateway
+- Swagger / OpenAPI
+
+---
+
+## 🏥 Programación Médica HEP *(En desarrollo)*
+
+Sistema web para gestionar programación médica, permisos, distribución de horas, calendarios y cobertura de atención del Servicio de Medicina Interna.
+
+**Estado del proyecto**
+
+🚧 En desarrollo (repositorio privado)
+
+**Tecnologías**
+
+HTML • CSS • JavaScript • SheetJS
 
 ---
 
 # 📖 Actualmente aprendiendo
 
-- Spring Boot
-- Docker
-- APIs REST
-- Arquitectura de Microservicios
-- Desarrollo Full Stack
+- ☕ Spring Boot
+- 🐳 Docker
+- 🌐 APIs REST
+- ☁️ Arquitectura de Microservicios
+- 💻 Desarrollo Full Stack
 
 ---
 
-# 🎯 Objetivos para 2026
+# 🎯 Objetivos
 
-✅ Construir un portafolio sólido
-
-✅ Publicar nuevos proyectos personales
-
-✅ Profundizar en Spring Boot
-
-✅ Mejorar mis habilidades Full Stack
-
-✅ Aprender nuevas tecnologías continuamente
+- ✅ Seguir fortaleciendo mis conocimientos en desarrollo de software.
+- ✅ Publicar nuevos proyectos personales.
+- ✅ Profundizar en Java y Spring Boot.
+- ✅ Construir un portafolio profesional en GitHub.
+- ✅ Continuar aprendiendo nuevas tecnologías.
 
 ---
 
-# 📫 Contacto
+# 🌱 Actividad
 
-💼 GitHub
-
-https://github.com/JstChiguin
+Actualmente utilizo GitHub para publicar proyectos personales y académicos, documentar mi aprendizaje y mantener un historial de evolución como desarrolladora.
 
 ---
 
@@ -163,6 +156,6 @@ https://github.com/JstChiguin
 
 ### ⭐ Gracias por visitar mi perfil ⭐
 
-*"El aprendizaje constante es la mejor inversión para el futuro."*
+*"Cada proyecto es una oportunidad para aprender algo nuevo."*
 
 </div>
