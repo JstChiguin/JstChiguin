@@ -1,50 +1,106 @@
 <div align="center">
 
-# ¡Hola! 👋 Soy Chiguin
+# 👋 ¡Hola! Soy Chiguin
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingeniería+Informática;Desarrollo+Aplicaciones+Web;Aprendiendo+Java+y+Spring+Boot;Siempre+aprendiendo+algo+nuevo+🚀" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=🎓+Estudiante+de+Ingeniería+Informática;💻+Desarrollando+aplicaciones+web;☕+Aprendiendo+Java+y+Spring+Boot;🚀+Construyendo+mi+portafolio+en+GitHub)](https://git.io/typing-svg)
 
 </div>
-# ¡Hola! 👋 Soy Chiguin
 
-🎓 Estudiante de Ingeniería Informática.
+---
 
-Me apasiona aprender nuevas tecnologías y desarrollar aplicaciones que resuelvan problemas reales. Actualmente estoy fortaleciendo mis conocimientos mediante proyectos personales y académicos.
+## 👩‍💻 Sobre mí
+
+🎓 Estudiante de **Ingeniería Informática**.
+
+Me apasiona aprender nuevas tecnologías y desarrollar aplicaciones que resuelvan problemas reales.
+
+Actualmente estoy fortaleciendo mis conocimientos mediante proyectos personales y académicos, con el objetivo de convertirme en **Desarrolladora Full Stack**.
 
 ---
 
 ## 🚀 Tecnologías
 
-- HTML5
-- CSS3
-- JavaScript
-- Java
-- Git
-- GitHub
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,spring,git,github,docker,mysql,vscode,idea" />
+</p>
 
 ---
 
-## 📂 Proyectos
+# 📊 Estadísticas
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JstChiguin&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JstChiguin&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=JstChiguin&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📂 Proyectos
 
 ### 📚 Irregular Verbs Trainer
-Aplicación web para practicar verbos irregulares en inglés mediante audio, repetición y diferentes modos de estudio.
 
-### 🏥 Sistema de Programación de Horas Médicas
-Aplicación web para organizar agendas médicas con exportación a Excel.
+Aplicación web para practicar verbos irregulares mediante audio, repetición y distintos modos de estudio.
+
+**Tecnologías**
+
+- HTML
+- CSS
+- JavaScript
 
 ---
 
-## 📖 Actualmente aprendiendo
+### 🏥 Sistema de Programación de Horas Médicas
+
+Aplicación web para organizar agendas médicas con exportación a Excel.
+
+**Tecnologías**
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+### ☕ Medilink
+
+Proyecto académico basado en microservicios.
+
+**Tecnologías**
+
+- Java
+- Spring Boot
+- Docker
+- MySQL
+
+---
+
+# 📖 Actualmente aprendiendo
 
 - Spring Boot
 - APIs REST
 - Docker
+- Arquitectura de Microservicios
 - Desarrollo Full Stack
 
 ---
 
-## 🎯 Objetivo
+# 🎯 Objetivo
 
-Seguir desarrollando proyectos que me permitan mejorar mis habilidades y construir un portafolio sólido como desarrolladora.
+Seguir desarrollando proyectos que fortalezcan mis conocimientos y construir un portafolio profesional.
 
-¡Gracias por visitar mi perfil! 😊
+---
+
+<div align="center">
+
+### ¡Gracias por visitar mi perfil! 😊
+
+</div>
