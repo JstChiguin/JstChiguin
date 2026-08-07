@@ -1,16 +1,43 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Chiguin
 
-<!--
-**JstChiguin/JstChiguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería Informática.
 
-Here are some ideas to get you started:
+Me apasiona aprender nuevas tecnologías y desarrollar aplicaciones que resuelvan problemas reales. Actualmente estoy fortaleciendo mis conocimientos mediante proyectos personales y académicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías
+
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- Git
+- GitHub
+
+---
+
+## 📂 Proyectos
+
+### 📚 Irregular Verbs Trainer
+Aplicación web para practicar verbos irregulares en inglés mediante audio, repetición y diferentes modos de estudio.
+
+### 🏥 Sistema de Programación de Horas Médicas
+Aplicación web para organizar agendas médicas con exportación a Excel.
+
+---
+
+## 📖 Actualmente aprendiendo
+
+- Spring Boot
+- APIs REST
+- Docker
+- Desarrollo Full Stack
+
+---
+
+## 🎯 Objetivo
+
+Seguir desarrollando proyectos que me permitan mejorar mis habilidades y construir un portafolio sólido como desarrolladora.
+
+¡Gracias por visitar mi perfil! 😊
