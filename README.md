@@ -1,3 +1,10 @@
+<div align="center">
+
+# ¡Hola! 👋 Soy Chiguin
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingeniería+Informática;Desarrollo+Aplicaciones+Web;Aprendiendo+Java+y+Spring+Boot;Siempre+aprendiendo+algo+nuevo+🚀" />
+
+</div>
 # ¡Hola! 👋 Soy Chiguin
 
 🎓 Estudiante de Ingeniería Informática.
