@@ -2,53 +2,69 @@
 
 # 👋 ¡Hola! Soy Chiguin
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=🎓+Estudiante+de+Ingeniería+Informática;💻+Desarrollando+aplicaciones+web;☕+Aprendiendo+Java+y+Spring+Boot;🚀+Construyendo+mi+portafolio+en+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=🎓+Estudiante+de+Ingeniería+Informática;💻+Desarrolladora+Full+Stack+en+formación;🚀+Creando+proyectos+para+aprender+y+mejorar+cada+día;☕+Java+%7C+Spring+Boot+%7C+JavaScript+%7C+Git)]
 
 </div>
 
 ---
 
-## 👩‍💻 Sobre mí
+# 👩‍💻 Sobre mí
 
-🎓 Estudiante de **Ingeniería Informática**.
+Soy **estudiante de Ingeniería Informática** con un gran interés por el desarrollo de software.
 
-Me apasiona aprender nuevas tecnologías y desarrollar aplicaciones que resuelvan problemas reales.
+Me gusta aprender creando proyectos que solucionen problemas reales, especialmente en las áreas de **salud**, **educación** y **automatización**.
 
-Actualmente estoy fortaleciendo mis conocimientos mediante proyectos personales y académicos, con el objetivo de convertirme en **Desarrolladora Full Stack**.
+Actualmente continúo fortaleciendo mis conocimientos en **Java**, **Spring Boot**, **JavaScript**, **Git**, **Docker** y **desarrollo Full Stack**.
 
 ---
 
-## 🚀 Tecnologías
+# 🚀 Tecnologías
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,git,github,docker,mysql,vscode,idea" />
-</p>
+
+</div>
 
 ---
 
 # 📊 Estadísticas
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=JstChiguin&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JstChiguin&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=JstChiguin&theme=github-dark&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 📂 Proyectos
+# 💡 Áreas de interés
 
-### 📚 Irregular Verbs Trainer
+🏥 Desarrollo de aplicaciones para Salud
 
-Aplicación web para practicar verbos irregulares mediante audio, repetición y distintos modos de estudio.
+👶 Software para Educación
+
+🌐 Desarrollo Web
+
+⚙️ Automatización de procesos
+
+☕ Backend con Java y Spring Boot
+
+---
+
+# 📂 Proyectos Destacados
+
+## 👶 TeachNote
+
+Aplicación creada para apoyar a educadoras de párvulos en la organización de registros y actividades pedagógicas.
 
 **Tecnologías**
 
@@ -58,9 +74,18 @@ Aplicación web para practicar verbos irregulares mediante audio, repetición y 
 
 ---
 
-### 🏥 Sistema de Programación de Horas Médicas
+## 📚 Irregular Verbs Trainer
 
-Aplicación web para organizar agendas médicas con exportación a Excel.
+Aplicación web para practicar verbos irregulares en inglés mediante audio, repetición automática y distintos modos de estudio.
+
+### Características
+
+- Audio automático
+- Repetición configurable
+- Selección por grupos
+- Exclusión individual de verbos
+- Bucle por grupo
+- Interfaz responsive
 
 **Tecnologías**
 
@@ -70,11 +95,30 @@ Aplicación web para organizar agendas médicas con exportación a Excel.
 
 ---
 
-### ☕ Medilink
+## 🏥 Sistema de Programación de Horas Médicas
 
-Proyecto académico basado en microservicios.
+Aplicación web para gestionar agendas médicas con exportación a Excel.
+
+### Funcionalidades
+
+- Agenda médica
+- Gestión de pacientes
+- Exportación a Excel
+- Organización de horarios
 
 **Tecnologías**
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## ☕ Medilink
+
+Proyecto académico desarrollado con arquitectura de microservicios.
+
+### Tecnologías
 
 - Java
 - Spring Boot
@@ -86,21 +130,39 @@ Proyecto académico basado en microservicios.
 # 📖 Actualmente aprendiendo
 
 - Spring Boot
-- APIs REST
 - Docker
+- APIs REST
 - Arquitectura de Microservicios
 - Desarrollo Full Stack
 
 ---
 
-# 🎯 Objetivo
+# 🎯 Objetivos para 2026
 
-Seguir desarrollando proyectos que fortalezcan mis conocimientos y construir un portafolio profesional.
+✅ Construir un portafolio sólido
+
+✅ Publicar nuevos proyectos personales
+
+✅ Profundizar en Spring Boot
+
+✅ Mejorar mis habilidades Full Stack
+
+✅ Aprender nuevas tecnologías continuamente
+
+---
+
+# 📫 Contacto
+
+💼 GitHub
+
+https://github.com/JstChiguin
 
 ---
 
 <div align="center">
 
-### ¡Gracias por visitar mi perfil! 😊
+### ⭐ Gracias por visitar mi perfil ⭐
+
+*"El aprendizaje constante es la mejor inversión para el futuro."*
 
 </div>
