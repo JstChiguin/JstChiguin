@@ -12,32 +12,74 @@
 
 # 👩‍💻 Sobre mí
 
-Soy estudiante de **Ingeniería Informática** y disfruto desarrollar aplicaciones que aporten soluciones reales.
+Soy estudiante de **Ingeniería Informática** y disfruto desarrollar aplicaciones orientadas a resolver necesidades reales.
 
-Actualmente estoy ampliando mis conocimientos en **Java**, **Spring Boot**, **Docker**, **APIs REST**, **Firebase** y **Desarrollo Full Stack**, aplicando lo aprendido en proyectos personales y académicos.
+Actualmente estoy ampliando mis conocimientos en **Java, Spring Boot, JavaScript, Firebase, Docker, APIs REST, arquitectura de microservicios, Linux y ciberseguridad**, aplicando lo aprendido en proyectos personales, académicos y laboratorios prácticos.
 
-Me interesan especialmente los proyectos relacionados con:
+Me interesan especialmente las áreas relacionadas con:
 
-* 🏥 Salud
-* 👶 Educación
+* 🏥 Tecnología aplicada a la salud
+* 👶 Tecnología aplicada a la educación
 * 🌐 Desarrollo Web
+* ☕ Desarrollo Backend
 * ⚙️ Automatización de procesos
+* ☁️ Servicios Cloud
+* 🔐 Ciberseguridad
+* 🐧 Linux
 
 ---
 
 # 🚀 Tecnologías
 
-### 💻 Lenguajes
+## 💻 Desarrollo de Software
+
+### Lenguajes
 
 HTML5 • CSS3 • JavaScript • Java • SQL
 
-### ⚙️ Frameworks, librerías y servicios
+### Frameworks, librerías y servicios
 
 Spring Boot • Spring Cloud • Firebase • ExcelJS • Web Speech API • Docx.js • Swagger / OpenAPI
 
-### 🛠️ Herramientas y plataformas
+### Herramientas y plataformas
 
 Git • GitHub • Docker • MySQL • Firebase Hosting • Postman • IntelliJ IDEA • Visual Studio Code
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,git,github,docker,mysql,firebase,postman,vscode,idea" />
+</p>
+
+---
+
+# 🔐 Ciberseguridad y Linux
+
+Actualmente también estoy desarrollando conocimientos prácticos en **ciberseguridad y administración de sistemas Linux**, trabajando con máquinas virtuales y laboratorios diseñados para practicar en ambientes controlados.
+
+### 🧪 Entornos y herramientas
+
+* 🐉 Kali Linux
+* 🐧 Ubuntu Linux
+* 💻 VirtualBox
+* 🎯 Metasploitable
+* 🖥️ Terminal Linux
+* 🔐 SSH
+* 📁 SCP / SFTP
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,ubuntu,linux,bash" />
+</p>
+
+### 📚 Conocimientos en desarrollo
+
+* 🐧 Uso y administración de sistemas Linux
+* 👤 Gestión de usuarios, grupos y permisos
+* 📂 Navegación y administración mediante terminal
+* 🌐 Redes y comunicación entre máquinas virtuales
+* 🔐 Conexiones mediante SSH
+* 📁 Transferencia de archivos mediante SCP/SFTP
+* 🧪 Laboratorios con máquinas vulnerables
+* 🔄 Pivoting entre sistemas dentro de entornos controlados
+* 🔎 Reconocimiento y análisis básico de sistemas
 
 ---
 
@@ -45,18 +87,19 @@ Git • GitHub • Docker • MySQL • Firebase Hosting • Postman • Intelli
 
 ## 📚 Irregular Verbs
 
-Aplicación web para practicar verbos irregulares en inglés mediante audio, repetición automática y distintos modos de estudio.
+Aplicación web interactiva para practicar verbos irregulares en inglés mediante audio, repetición automática y distintos modos de estudio.
 
 ### ✨ Características
 
-* 🔊 Reproducción automática
+* 🔊 Reproducción automática mediante síntesis de voz
 * 🔁 Repetición configurable
 * 📂 Selección por grupos
 * 🔇 Exclusión individual de verbos
 * 🎧 Bucle por grupo
+* 🔄 Reproducción independiente por grupos
 * 📱 Diseño responsive
 
-**Tecnologías**
+### 🛠️ Tecnologías
 
 HTML • CSS • JavaScript • Web Speech API
 
@@ -64,7 +107,7 @@ HTML • CSS • JavaScript • Web Speech API
 
 ## 🌱 ParvuLog
 
-Aplicación web diseñada para educadoras de párvulos que permite registrar experiencias pedagógicas mediante voz o texto, organizar observaciones y generar informes diarios.
+Aplicación web diseñada para apoyar a educadoras de párvulos en el registro de experiencias pedagógicas mediante voz o texto, permitiendo organizar observaciones y generar informes.
 
 ### ✨ Características
 
@@ -77,7 +120,7 @@ Aplicación web diseñada para educadoras de párvulos que permite registrar exp
 * 📄 Exportación a Word (.docx)
 * 💾 Almacenamiento local
 
-**Tecnologías**
+### 🛠️ Tecnologías
 
 HTML • CSS • JavaScript • Web Speech API • Docx.js
 
@@ -85,7 +128,7 @@ HTML • CSS • JavaScript • Web Speech API • Docx.js
 
 ## ☕ Medilink
 
-Proyecto académico desarrollado con una **arquitectura de microservicios utilizando Spring Boot**, orientado a la gestión de diferentes procesos de una plataforma médica.
+Proyecto académico desarrollado utilizando una **arquitectura basada en microservicios con Spring Boot**, orientado a la gestión de diferentes procesos de una plataforma médica.
 
 ### ✨ Características
 
@@ -97,6 +140,7 @@ Proyecto académico desarrollado con una **arquitectura de microservicios utiliz
 * 📚 Documentación de endpoints
 * 🗄️ Persistencia de datos
 * 🐳 Entorno contenerizado
+* 🧪 Pruebas de servicios
 
 ### 🛠️ Tecnologías
 
@@ -106,9 +150,9 @@ Java • Spring Boot • Spring Cloud • Docker • MySQL • Eureka Server •
 
 ## 🏥 Programación Médica HEP *(En desarrollo)*
 
-Sistema web orientado a la **gestión y automatización de la programación médica**, permitiendo administrar la distribución de horas, permisos, calendarios, horarios y distintas actividades relacionadas con la planificación médica.
+Sistema web orientado a la **gestión y automatización de la programación médica**, permitiendo administrar distribución de horas, permisos, calendarios, horarios y diferentes actividades relacionadas con la planificación médica.
 
-El proyecto surge a partir de una necesidad real de organización y busca transformar procesos administrativos realizados manualmente en un sistema centralizado y más automatizado.
+El proyecto surge a partir de una necesidad real de organización y busca transformar procesos administrativos realizados manualmente en un sistema centralizado y progresivamente automatizado.
 
 ### ✨ Características actuales
 
@@ -120,18 +164,18 @@ El proyecto surge a partir de una necesidad real de organización y busca transf
 * 🕐 Generación de horarios médicos
 * 🖨️ Generación de versiones imprimibles
 * 📊 Exportación de información a Excel
-* ⚙️ Automatización de información entre distintas vistas
+* ⚙️ Automatización de información entre diferentes vistas
 * 🔐 Autenticación de usuarios mediante Firebase
 * 👤 Control de inicio y cierre de sesión
 * ☁️ Configuración para despliegue mediante Firebase Hosting
 
-### 🔐 Acceso
+### 🔐 Autenticación
 
 El sistema incorpora **Firebase Authentication** para restringir el acceso a usuarios previamente autorizados.
 
-**Estado del proyecto**
+### 🚧 Estado
 
-🚧 En desarrollo — repositorio privado.
+**En desarrollo — repositorio privado.**
 
 ### 🛠️ Tecnologías
 
@@ -139,34 +183,63 @@ HTML • CSS • JavaScript • Firebase Authentication • Firebase Hosting •
 
 ---
 
+# 🧠 Conocimientos complementarios
+
+Además de los proyectos principales, durante mi formación he trabajado con:
+
+* 🔗 APIs REST
+* 🧩 Arquitectura de microservicios
+* 🗺️ Eureka Server
+* 🚪 API Gateway
+* 📖 Swagger / OpenAPI
+* 🐳 Docker
+* 🗄️ MySQL
+* 🧪 JUnit
+* 🎭 Mockito
+* 🔥 Firebase
+* 🌿 Git Flow y trabajo mediante ramas
+* 🐧 Linux
+* 🔐 SSH
+* 💻 Virtualización
+
+---
+
 # 📖 Actualmente aprendiendo
 
+Actualmente continúo profundizando mis conocimientos en:
+
 * ☕ Java y Spring Boot
-* 🐳 Docker
-* 🌐 APIs REST
+* 🌐 Desarrollo Full Stack
+* 🔗 APIs REST
 * ☁️ Arquitectura de Microservicios
+* 🐳 Docker
 * 🔥 Firebase
-* 💻 Desarrollo Full Stack
-* 🔀 Git y flujos de trabajo mediante ramas
+* 🔀 Git y control de versiones
+* 🐧 Linux
+* 🔐 Ciberseguridad
+* 🧪 Laboratorios de seguridad con Kali Linux, Ubuntu y Metasploitable
 
 ---
 
 # 🎯 Objetivos
 
 * ✅ Seguir fortaleciendo mis conocimientos en desarrollo de software.
-* ✅ Publicar nuevos proyectos personales.
-* ✅ Profundizar en Java y Spring Boot.
 * ✅ Desarrollar soluciones aplicadas a problemas reales.
-* ✅ Mejorar mis conocimientos de Desarrollo Full Stack.
+* ✅ Publicar nuevos proyectos personales y académicos.
+* ✅ Profundizar en Java y Spring Boot.
+* ✅ Avanzar en Desarrollo Full Stack.
+* ✅ Continuar desarrollando conocimientos en ciberseguridad.
 * ✅ Aplicar buenas prácticas de Git y control de versiones.
-* ✅ Construir un portafolio profesional en GitHub.
+* ✅ Construir y mantener un portafolio profesional en GitHub.
 * ✅ Continuar aprendiendo nuevas tecnologías.
 
 ---
 
 # 🌱 Actividad
 
-Actualmente utilizo GitHub para publicar proyectos personales y académicos, documentar mi aprendizaje, practicar flujos de trabajo con **Git** y mantener un historial de evolución como desarrolladora.
+Actualmente utilizo GitHub para desarrollar y documentar proyectos personales y académicos, practicar flujos de trabajo con **Git**, trabajar mediante ramas para nuevas funcionalidades y mantener un historial de mi evolución como desarrolladora.
+
+También utilizo entornos virtualizados para complementar mi formación mediante prácticas de **Linux y ciberseguridad en laboratorios controlados**.
 
 ---
 
