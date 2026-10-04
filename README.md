@@ -86,13 +86,17 @@ Actualmente también estoy desarrollando conocimientos prácticos en **cibersegu
 # 📂 Proyectos Destacados
 
 
-## 🏥 Programación Médica HEP *(En desarrollo)*
+## 🏥 Programación Médica *(En desarrollo)*
 
-Sistema web de **gestión médico-administrativa** desarrollado a partir de una necesidad real del Servicio de Medicina Interna del Hospital Dr. Eduardo Pereira.
+Sistema web de gestión médico-administrativa desarrollado como proyecto personal a partir de necesidades reales observadas en procesos administrativos del Servicio de Medicina Interna de un hospital.
 
 El proyecto comenzó como una herramienta para centralizar y automatizar la programación horaria médica, reemplazando procesos realizados mediante planillas y registros independientes. Actualmente ha evolucionado incorporando gestión de ausentismo, horarios asistenciales, documentos, agenda telefónica, roles, permisos, auditoría y otras funciones administrativas.
 
 Su desarrollo continúa de forma incremental, con proyección hacia **ADMED — Sistema de Gestión Médico-Administrativa Hospitalaria**, manteniendo la programación médica como uno de sus módulos centrales.
+
+El sistema se encuentra en evolución continua mediante versiones incrementales, pruebas y control de cambios con Git.
+
+> **Nota:** Este proyecto corresponde a una iniciativa personal y no constituye un sistema institucional oficial ni implica adopción o aprobación por parte de la institución donde se identificaron las necesidades que dieron origen a su desarrollo.
 
 ### ✨ Características actuales
 
