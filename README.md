@@ -14,7 +14,7 @@
 
 Soy estudiante de **Ingeniería Informática** y disfruto desarrollar aplicaciones orientadas a resolver necesidades reales.
 
-Actualmente estoy ampliando mis conocimientos en **Java, Spring Boot, JavaScript, Firebase, Docker, APIs REST, arquitectura de microservicios, Linux y ciberseguridad**, aplicando lo aprendido en proyectos personales, académicos y laboratorios prácticos.
+Actualmente desarrollo proyectos personales y académicos utilizando tecnologías como **JavaScript, Java, Spring Boot, Firebase, Git, Docker y APIs REST**, mientras continúo profundizando mis conocimientos en desarrollo Full Stack, arquitectura de software, Linux y ciberseguridad.
 
 Me interesan especialmente las áreas relacionadas con:
 
@@ -35,7 +35,7 @@ Me interesan especialmente las áreas relacionadas con:
 
 ### Lenguajes
 
-HTML5 • CSS3 • JavaScript • Java • SQL
+HTML5 • CSS3 • JavaScript • Java • SQL • PL/SQL
 
 ### Frameworks, librerías y servicios
 
@@ -85,44 +85,53 @@ Actualmente también estoy desarrollando conocimientos prácticos en **cibersegu
 
 # 📂 Proyectos Destacados
 
-## 📚 Irregular Verbs
 
-Aplicación web interactiva para practicar verbos irregulares en inglés mediante audio, repetición automática y distintos modos de estudio.
+## 🏥 Programación Médica HEP *(En desarrollo)*
 
-### ✨ Características
+Sistema web de **gestión médico-administrativa** desarrollado a partir de una necesidad real del Servicio de Medicina Interna del Hospital Dr. Eduardo Pereira.
 
-* 🔊 Reproducción automática mediante síntesis de voz
-* 🔁 Repetición configurable
-* 📂 Selección por grupos
-* 🔇 Exclusión individual de verbos
-* 🎧 Bucle por grupo
-* 🔄 Reproducción independiente por grupos
-* 📱 Diseño responsive
+El proyecto comenzó como una herramienta para centralizar y automatizar la programación horaria médica, reemplazando procesos realizados mediante planillas y registros independientes. Actualmente ha evolucionado incorporando gestión de ausentismo, horarios asistenciales, documentos, agenda telefónica, roles, permisos, auditoría y otras funciones administrativas.
+
+Su desarrollo continúa de forma incremental, con proyección hacia **ADMED — Sistema de Gestión Médico-Administrativa Hospitalaria**, manteniendo la programación médica como uno de sus módulos centrales.
+
+### ✨ Características actuales
+
+- 👨‍⚕️ Gestión de médicos y programación.
+- ⏱️ Distribución y modificaciones horarias.
+- 📝 Gestión de permisos y ausentismo.
+- 📅 Calendario de programación.
+- 🩺 Horarios de atención de policlínicos.
+- 👪 Horarios de atención a familiares.
+- 🕐 Generación de horarios médicos.
+- 🚦 Alertas asociadas a programación y cobertura.
+- 📋 Registro y trazabilidad de modificaciones.
+- 📄 Gestión de documentos y formularios.
+- ☎️ Agenda telefónica organizada por establecimientos y unidades.
+- 👨‍⚕️ Gestión de Jefatura y subrogancia.
+- 📊 Exportación de información a Excel.
+- 🖨️ Generación de vistas y documentos imprimibles.
+- 🔐 Autenticación de usuarios.
+- 👥 Control de acceso mediante roles y permisos.
+- 🧾 Auditoría de operaciones administrativas.
+- ⏳ Cierre automático de sesión por inactividad.
+- ☁️ Persistencia de información mediante Cloud Firestore.
+- 🚀 Despliegue mediante Firebase Hosting.
+
+### 🔐 Seguridad y acceso
+
+El sistema utiliza **Firebase Authentication** y control de acceso basado en roles y permisos para restringir las funcionalidades disponibles para cada usuario.
+
+Las operaciones administrativas relevantes mantienen información de trazabilidad y determinadas acciones utilizan anulación lógica para conservar el historial de los registros.
+
+### 🚧 Estado
+
+**En desarrollo — repositorio privado.**
+
+El sistema se encuentra en evolución continua mediante versiones incrementales, pruebas y control de cambios con Git.
 
 ### 🛠️ Tecnologías
 
-HTML • CSS • JavaScript • Web Speech API
-
----
-
-## 🌱 ParvuLog
-
-Aplicación web diseñada para apoyar a educadoras de párvulos en el registro de experiencias pedagógicas mediante voz o texto, permitiendo organizar observaciones y generar informes.
-
-### ✨ Características
-
-* 🎙️ Registro mediante reconocimiento de voz
-* 📝 Edición manual
-* 📒 Bitácora diaria
-* 👧 Registro de participantes
-* 📄 Generación de informes
-* 🖨️ Impresión
-* 📄 Exportación a Word (.docx)
-* 💾 Almacenamiento local
-
-### 🛠️ Tecnologías
-
-HTML • CSS • JavaScript • Web Speech API • Docx.js
+HTML • CSS • JavaScript • Firebase Authentication • Cloud Firestore • Firebase Hosting • ExcelJS • pdf-lib • html2canvas • Git • GitHub
 
 ---
 
@@ -148,38 +157,50 @@ Java • Spring Boot • Spring Cloud • Docker • MySQL • Eureka Server •
 
 ---
 
-## 🏥 Programación Médica HEP *(En desarrollo)*
+## 🌱 ParvuLog
 
-Sistema web orientado a la **gestión y automatización de la programación médica**, permitiendo administrar distribución de horas, permisos, calendarios, horarios y diferentes actividades relacionadas con la planificación médica.
+Aplicación web nacida a partir de una necesidad real identificada durante una clase universitaria. Una docente comentó las dificultades que enfrentaba para registrar y organizar experiencias pedagógicas, lo que dio origen a la idea de desarrollar una herramienta que simplificara ese proceso.
 
-El proyecto surge a partir de una necesidad real de organización y busca transformar procesos administrativos realizados manualmente en un sistema centralizado y progresivamente automatizado.
+A partir de esa necesidad desarrollé **ParvuLog**, una aplicación que permite registrar experiencias mediante voz o texto, organizar observaciones y generar informes. Una semana después de identificar el problema, la primera versión funcional fue entregada a la docente como solución para apoyar su trabajo.
 
-### ✨ Características actuales
+### ✨ Características
 
-* 👨‍⚕️ Gestión de médicos y programación
-* ⏱️ Distribución de horas por actividad
-* 🏥 Gestión de actividades asistenciales
-* 📝 Gestión de permisos y ausentismos
-* 📅 Calendario de programación
-* 🕐 Generación de horarios médicos
-* 🖨️ Generación de versiones imprimibles
-* 📊 Exportación de información a Excel
-* ⚙️ Automatización de información entre diferentes vistas
-* 🔐 Autenticación de usuarios mediante Firebase
-* 👤 Control de inicio y cierre de sesión
-* ☁️ Configuración para despliegue mediante Firebase Hosting
-
-### 🔐 Autenticación
-
-El sistema incorpora **Firebase Authentication** para restringir el acceso a usuarios previamente autorizados.
-
-### 🚧 Estado
-
-**En desarrollo — repositorio privado.**
+* 🎙️ Registro mediante reconocimiento de voz
+* 📝 Edición manual
+* 📒 Bitácora diaria
+* 👧 Registro de participantes
+* 📄 Generación de informes
+* 🖨️ Impresión
+* 📄 Exportación a Word (.docx)
+* 💾 Almacenamiento local
 
 ### 🛠️ Tecnologías
 
-HTML • CSS • JavaScript • Firebase Authentication • Firebase Hosting • ExcelJS
+HTML • CSS • JavaScript • Web Speech API • Docx.js
+
+---
+
+## 📚 Irregular Verbs
+
+Aplicación web desarrollada a partir de una necesidad personal: aprovechar mis trayectos diarios hacia y desde el trabajo para estudiar verbos irregulares en inglés sin depender de mirar constantemente una pantalla.
+
+La aplicación está orientada especialmente al **aprendizaje mediante audio**, permitiendo escuchar los verbos, repetirlos automáticamente y organizar la práctica por grupos mientras realizo otras actividades.
+
+Actualmente evalúo su evolución hacia una **aplicación móvil con integración para el sistema multimedia del automóvil**, manteniendo como objetivo principal facilitar el estudio mediante audio durante los trayectos.
+
+### ✨ Características
+
+* 🔊 Reproducción automática mediante síntesis de voz
+* 🔁 Repetición configurable
+* 📂 Selección por grupos
+* 🔇 Exclusión individual de verbos
+* 🎧 Bucle por grupo
+* 🔄 Reproducción independiente por grupos
+* 📱 Diseño responsive
+
+### 🛠️ Tecnologías
+
+HTML • CSS • JavaScript • Web Speech API
 
 ---
 
@@ -210,28 +231,27 @@ Actualmente continúo profundizando mis conocimientos en:
 
 * ☕ Java y Spring Boot
 * 🌐 Desarrollo Full Stack
-* 🔗 APIs REST
-* ☁️ Arquitectura de Microservicios
-* 🐳 Docker
-* 🔥 Firebase
-* 🔀 Git y control de versiones
-* 🐧 Linux
+* 🏗️ Arquitectura de software
+* 🔗 Diseño e integración de APIs REST
+* ☁️ Arquitectura de microservicios
+* 🐳 Docker y contenerización
+* 🗄️ Bases de datos y PL/SQL
+* 📱 Desarrollo de aplicaciones móviles
+* 🐧 Administración de sistemas Linux
 * 🔐 Ciberseguridad
-* 🧪 Laboratorios de seguridad con Kali Linux, Ubuntu y Metasploitable
+* 🧪 Laboratorios de seguridad en entornos virtualizados
 
 ---
 
 # 🎯 Objetivos
 
-* ✅ Seguir fortaleciendo mis conocimientos en desarrollo de software.
-* ✅ Desarrollar soluciones aplicadas a problemas reales.
-* ✅ Publicar nuevos proyectos personales y académicos.
-* ✅ Profundizar en Java y Spring Boot.
-* ✅ Avanzar en Desarrollo Full Stack.
-* ✅ Continuar desarrollando conocimientos en ciberseguridad.
-* ✅ Aplicar buenas prácticas de Git y control de versiones.
-* ✅ Construir y mantener un portafolio profesional en GitHub.
-* ✅ Continuar aprendiendo nuevas tecnologías.
+* 🚀 Continuar creciendo como desarrolladora de software.
+* 🏥 Desarrollar soluciones tecnológicas aplicadas a problemas reales, especialmente en el área de salud.
+* 🧩 Profundizar en desarrollo Full Stack y arquitectura de software.
+* 📱 Ampliar mis conocimientos en desarrollo de aplicaciones móviles.
+* 🔐 Continuar desarrollando conocimientos en ciberseguridad.
+* 🤖 Incorporar progresivamente inteligencia artificial al desarrollo de software.
+* 📂 Seguir construyendo proyectos que fortalezcan mi portafolio profesional.
 
 ---
 
