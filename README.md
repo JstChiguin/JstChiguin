@@ -46,7 +46,7 @@ Spring Boot • Spring Cloud • Firebase • ExcelJS • Web Speech API • Doc
 Git • GitHub • Docker • MySQL • Firebase Hosting • Postman • IntelliJ IDEA • Visual Studio Code
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,git,github,docker,mysql,firebase,postman,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,java,spring,git,github,docker,mysql,firebase,vscode,idea,postman,linux" />
 </p>
 
 ---
@@ -86,56 +86,62 @@ Actualmente también estoy desarrollando conocimientos prácticos en **cibersegu
 # 📂 Proyectos Destacados
 
 
-## 🏥 Programación Médica *(En desarrollo)*
+## 🏥 ADMEDH — Sistema de Gestión Médico-Administrativa Hospitalaria
 
-Sistema web de gestión médico-administrativa desarrollado como proyecto personal a partir de necesidades reales observadas en procesos administrativos del Servicio de Medicina Interna de un hospital.
+**Proyecto personal · En desarrollo · by Chiguin**
 
-El proyecto comenzó como una herramienta para centralizar y automatizar la programación horaria médica, reemplazando procesos realizados mediante planillas y registros independientes. Actualmente ha evolucionado incorporando gestión de ausentismo, horarios asistenciales, documentos, agenda telefónica, roles, permisos, auditoría y otras funciones administrativas.
+ADMEDH es una aplicación web de gestión médico-administrativa que desarrollo a partir de necesidades reales identificadas en procesos hospitalarios.
 
-Su desarrollo continúa de forma incremental, con proyección hacia **ADMED — Sistema de Gestión Médico-Administrativa Hospitalaria**, manteniendo la programación médica como uno de sus módulos centrales.
+El proyecto comenzó como una herramienta para automatizar la programación horaria médica y ha evolucionado hacia una plataforma modular que integra distintos procesos administrativos y asistenciales.
 
-El sistema se encuentra en evolución continua mediante versiones incrementales, pruebas y control de cambios con Git.
+Su objetivo es centralizar información, reducir tareas repetitivas, mejorar la trazabilidad de los registros y facilitar la gestión mediante una interfaz adaptable a computadores, tablets y dispositivos móviles.
 
-> **Nota:** Este proyecto corresponde a una iniciativa personal y no constituye un sistema institucional oficial ni implica adopción o aprobación por parte de la institución donde se identificaron las necesidades que dieron origen a su desarrollo.
+### ✨ Principales funcionalidades
 
-### ✨ Características actuales
+- 👨‍⚕️ Gestión de profesionales médicos y programación horaria.
+- 📅 Horarios, vigencias, modificaciones y cobertura asistencial.
+- 📝 Permisos, ausentismo y registros administrativos.
+- 🏥 Gestión de censos, hospitalizaciones y movimientos.
+- 🩺 Interconsultas y seguimiento de registros.
+- 📋 Documentos, formularios y reportes.
+- 📊 Estadísticas y exportación de información.
+- 👥 Administración de usuarios, roles y permisos.
+- 🔐 Autenticación y restricciones de acceso mediante Firebase.
+- 🧾 Auditoría y trazabilidad de operaciones.
+- ⏳ Gestión de sesiones y cierre por inactividad.
 
-- 👨‍⚕️ Gestión de médicos y programación.
-- ⏱️ Distribución y modificaciones horarias.
-- 📝 Gestión de permisos y ausentismo.
-- 📅 Calendario de programación.
-- 🩺 Horarios de atención de policlínicos.
-- 👪 Horarios de atención a familiares.
-- 🕐 Generación de horarios médicos.
-- 🚦 Alertas asociadas a programación y cobertura.
-- 📋 Registro y trazabilidad de modificaciones.
-- 📄 Gestión de documentos y formularios.
-- ☎️ Agenda telefónica organizada por establecimientos y unidades.
-- 👨‍⚕️ Gestión de Jefatura y subrogancia.
-- 📊 Exportación de información a Excel.
-- 🖨️ Generación de vistas y documentos imprimibles.
-- 🔐 Autenticación de usuarios.
-- 👥 Control de acceso mediante roles y permisos.
-- 🧾 Auditoría de operaciones administrativas.
-- ⏳ Cierre automático de sesión por inactividad.
-- ☁️ Persistencia de información mediante Cloud Firestore.
-- 🚀 Despliegue mediante Firebase Hosting.
+### 🏗️ Arquitectura y tecnologías
 
-### 🔐 Seguridad y acceso
+**Frontend:** React, JavaScript, Vite, HTML5 y CSS3.
 
-El sistema utiliza **Firebase Authentication** y control de acceso basado en roles y permisos para restringir las funcionalidades disponibles para cada usuario.
+**Backend y servicios:** Firebase Authentication y Cloud Firestore.
 
-Las operaciones administrativas relevantes mantienen información de trazabilidad y determinadas acciones utilizan anulación lógica para conservar el historial de los registros.
+**Herramientas:** Git, GitHub, ExcelJS y Firebase Hosting.
 
-### 🚧 Estado
+El proyecto utiliza una arquitectura modular, con separación de responsabilidades y componentes reutilizables, facilitando su mantenimiento y evolución.
 
-**En desarrollo — repositorio privado.**
+### 🧪 Desarrollo y pruebas
 
-El sistema se encuentra en evolución continua mediante versiones incrementales, pruebas y control de cambios con Git.
+ADMEDH contempla dos entornos independientes:
 
-### 🛠️ Tecnologías
+- **`develop`:** entorno de ensayo con usuarios, médicos, pacientes y registros completamente ficticios para probar las funcionalidades.
+- **`main`:** versión principal y estable, destinada a incorporar únicamente cambios previamente validados.
 
-HTML • CSS • JavaScript • Firebase Authentication • Cloud Firestore • Firebase Hosting • ExcelJS • pdf-lib • html2canvas • Git • GitHub
+El desarrollo incluye pruebas automatizadas, verificaciones de permisos y controles para evitar conexiones accidentales entre entornos.
+
+### 🔐 Seguridad
+
+La aplicación incorpora autenticación, control de acceso basado en roles, reglas de seguridad de Firestore y trazabilidad de operaciones.
+
+El desarrollo considera la protección de información sensible, la separación de entornos y el uso de datos sintéticos para las pruebas.
+
+### 🚧 Estado del proyecto
+
+**En desarrollo activo — repositorio privado.**
+
+Proyecto de autoría personal, desarrollado con fines de aprendizaje, innovación y evolución profesional.
+
+*ADMEDH no constituye un sistema institucional oficial ni implica adopción o aprobación por parte de una institución de salud.*
 
 ---
 
