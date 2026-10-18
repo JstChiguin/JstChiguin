@@ -39,11 +39,11 @@ HTML5 • CSS3 • JavaScript • Java • SQL • PL/SQL
 
 ### Frameworks, librerías y servicios
 
-Spring Boot • Spring Cloud • Firebase • ExcelJS • Web Speech API • Docx.js • Swagger / OpenAPI
+React • Vite • Spring Boot • Spring Cloud • Firebase Authentication • Cloud Firestore • ExcelJS • Web Speech API • Docx.js • Swagger / OpenAPI
 
 ### Herramientas y plataformas
 
-Git • GitHub • Docker • MySQL • Firebase Hosting • Postman • IntelliJ IDEA • Visual Studio Code
+Git • GitHub • GitHub Actions • Docker • MySQL • Firebase Hosting • Postman • IntelliJ IDEA • Visual Studio Code
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,java,spring,git,github,docker,mysql,firebase,vscode,idea,postman,linux" />
@@ -92,7 +92,9 @@ Actualmente también estoy desarrollando conocimientos prácticos en **cibersegu
 
 ADMEDH es una aplicación web de gestión médico-administrativa que desarrollo a partir de necesidades reales identificadas en procesos hospitalarios.
 
-El proyecto comenzó como una herramienta para automatizar la programación horaria médica y ha evolucionado hacia una plataforma modular que integra distintos procesos administrativos y asistenciales.
+El proyecto utiliza una arquitectura frontend modular basada en React, con componentes reutilizables y separación de responsabilidades entre presentación, lógica de negocio y acceso a datos.
+
+La autenticación y persistencia se gestionan mediante servicios Firebase, mientras que los entornos de ensayo y principal se mantienen separados para reducir riesgos durante el desarrollo y despliegue.
 
 Su objetivo es centralizar información, reducir tareas repetitivas, mejorar la trazabilidad de los registros y facilitar la gestión mediante una interfaz adaptable a computadores, tablets y dispositivos móviles.
 
@@ -122,12 +124,14 @@ El proyecto utiliza una arquitectura modular, con separación de responsabilidad
 
 ### 🧪 Desarrollo y pruebas
 
-ADMEDH contempla dos entornos independientes:
+ADMEDH está organizado para trabajar con dos entornos independientes:
 
-- **`develop`:** entorno de ensayo con usuarios, médicos, pacientes y registros completamente ficticios para probar las funcionalidades.
-- **`main`:** versión principal y estable, destinada a incorporar únicamente cambios previamente validados.
+- **`develop` — Ensayo:** versión de pruebas con usuarios y registros ficticios, destinada a validar funcionalidades, permisos y cambios.
+- **`main` — Principal:** versión destinada a recibir los cambios previamente validados en el entorno de ensayo.
 
-El desarrollo incluye pruebas automatizadas, verificaciones de permisos y controles para evitar conexiones accidentales entre entornos.
+La estrategia de desarrollo contempla pruebas automatizadas, controles de acceso y verificaciones de aislamiento entre los proyectos Firebase, junto con despliegues independientes mediante GitHub Actions.
+
+**La configuración de integración y despliegue continuo se encuentra en proceso de implementación y validación.**
 
 ### 🔐 Seguridad
 
